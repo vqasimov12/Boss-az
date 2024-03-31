@@ -1,0 +1,12 @@
+{
+  "Notifications": [],
+  "Id": "dc83d169",
+  "Name": "Admin",
+  "Surname": "Admin",
+  "City": "Shamkir",
+  "Mail": "Admin@gmail.com",
+  "Phone": "55 555 55 55",
+  "Age": 20,
+  "Password": "Admin123",
+  "Username": "Admin"
+}

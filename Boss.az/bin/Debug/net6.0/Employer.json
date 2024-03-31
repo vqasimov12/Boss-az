@@ -1,0 +1,398 @@
+[
+  {
+    "Notifications": [
+      {
+        "Id": "51aea6c5",
+        "Visiblity": 1,
+        "Receiver": "Employer",
+        "Sender": "Worker1",
+        "Time": "2024-03-31T11:23:12.5867544+04:00",
+        "WorkId": "273954dc",
+        "HTML": "\r\n               <!DOCTYPE html>\r\n                <html lang=\"en\">\r\n                <head>\r\n                    <meta charset=\"UTF-8\">\r\n                    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n                    <title>Job Application Email</title>\r\n                    <style>\r\n                        body {\r\n                            font-family: Arial, sans-serif;\r\n                            background-color: #f9f9f9;\r\n                            color: #333;\r\n                            margin: 0;\r\n                            padding: 0;\r\n                        }\r\n                        .container {\r\n                            max-width: 600px;\r\n                            margin: 0 auto;\r\n                            padding: 20px;\r\n                        }\r\n                        h1 {\r\n                            color: #0074d9;\r\n                            margin-bottom: 20px;\r\n                        }\r\n                        p {\r\n                            font-size: 16px;\r\n                            line-height: 1.6;\r\n                            margin-bottom: 15px;\r\n                        }\r\n                        strong {\r\n                            color: #2ecc40;\r\n                        }\r\n                        footer {\r\n                            font-size: 14px;\r\n                            color: #888;\r\n                            margin-top: 30px;\r\n                        }\r\n                    </style>\r\n                </head>\r\n                <body>\r\n                    <div class=\"container\">\r\n                        <h1>Hello Employer,</h1>\r\n                        <p>I am writing to express my interest in the <strong>asdasd</strong> advertised by <strong>csaasdas</strong>. With my experience and qualifications, I am confident in my ability to contribute effectively to your team.</p>\r\n                        <p>I am particularly drawn to specific aspects of the job, and I am excited about the opportunity to [mention what you hope to achieve or contribute]. Through my previous experience in [mention relevant experience or projects], I have developed a strong foundation in [mention relevant skills or competencies] that align well with the requirements of the position.</p>\r\n                        <p>I am eager to bring my skills or qualities to <strong>csaasdas</strong> and to further develop my abilities.</p>\r\n                        <p>Enclosed is my CV, which provides additional details about my background and accomplishments. I would welcome the opportunity to discuss how my skills and experiences align with the needs of your team. Please feel free to contact me at your convenience to schedule a meeting or interview.</p>\r\n                        <p>Thank you for considering my application. I look forward to the possibility of contributing to <strong>csaasdas</strong>.</p>\r\n                        <footer>\r\n                            Sincerely,<br>\r\n                            Worker1<br>\r\n                            qasimov.vaqif512@gmail.com<br>\r\n                            55 555 55 55<br><br>\r\n                   <p> You can find my CV below:</p><br>\r\n                  <p>School: addssdasd\r\nPoint: 555\r\nSpeciality: sadasdas\r\nUniversity: dsasdasd\r\n (Honor Diplom)\r\nSkills:\r\n* asxsax\r\nLanguages:\r\n* qwsaz (A2)\r\nCompanies:\r\n* asda (555)\r\n</p>\r\n                        </footer>\r\n                    </div>\r\n                </body>\r\n                </html>",
+        "Content": "\r\n    Worker1\r\n    Asdas ZIP Code: AZ-057\r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    31.3.2024\r\n    \r\n    \r\n    Dear Employer,\r\n    \r\n    I am writing to express my interest in the asdasd advertised by csaasdas. \r\n    With my experience, and qualifications, I am confident in my ability to contribute effectively to your team.\r\n    \r\n    I am particularly drawn to  specific aspects of the job  and I am excited about the opportunity to [mention what  you    hope to achieve or contribute]. Through my previous experience in [mention relevant experience or projects], I have developed a strong  foundation in    [mention relevant skills or competencies] that align well with the requirements of the position.\r\n    \r\n    I am eager to bring my skills or qualities to csaasdas and to further develop my abilities.\r\n    \r\n    Enclosed is my CV, which provides additional details about my background and accomplishments. I would welcome the opportunity to discuss how my     skills and experiences align with the needs of your team. Please feel free to contact me at your convenience to schedule a meeting or interview.\r\n    \r\n    Thank you for considering my application. I look forward to the possibility of contributing to csaasdas.\r\n    \r\n    Sincerely,\r\n    \r\n    Worker1\r\n\r\n\r\nPlease find below my CV:\r\n\r\n\r\nSchool: addssdasd\r\nPoint: 555\r\nSpeciality: sadasdas\r\nUniversity: dsasdasd\r\n (Honor Diplom)\r\nSkills:\r\n* asxsax\r\nLanguages:\r\n* qwsaz (A2)\r\nCompanies:\r\n* asda (555)\r\n"
+      },
+      {
+        "Id": "da8395bd",
+        "Visiblity": 1,
+        "Receiver": "Employer",
+        "Sender": "Worker",
+        "Time": "2024-03-31T11:29:55.2088604+04:00",
+        "WorkId": "05e3e28e",
+        "HTML": "\r\n               <!DOCTYPE html>\r\n                <html lang=\"en\">\r\n                <head>\r\n                    <meta charset=\"UTF-8\">\r\n                    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n                    <title>Job Application Email</title>\r\n                    <style>\r\n                        body {\r\n                            font-family: Arial, sans-serif;\r\n                            background-color: #f9f9f9;\r\n                            color: #333;\r\n                            margin: 0;\r\n                            padding: 0;\r\n                        }\r\n                        .container {\r\n                            max-width: 600px;\r\n                            margin: 0 auto;\r\n                            padding: 20px;\r\n                        }\r\n                        h1 {\r\n                            color: #0074d9;\r\n                            margin-bottom: 20px;\r\n                        }\r\n                        p {\r\n                            font-size: 16px;\r\n                            line-height: 1.6;\r\n                            margin-bottom: 15px;\r\n                        }\r\n                        strong {\r\n                            color: #2ecc40;\r\n                        }\r\n                        footer {\r\n                            font-size: 14px;\r\n                            color: #888;\r\n                            margin-top: 30px;\r\n                        }\r\n                    </style>\r\n                </head>\r\n                <body>\r\n                    <div class=\"container\">\r\n                        <h1>Hello Employer,</h1>\r\n                        <p>I am writing to express my interest in the <strong>qwqweqwe</strong> advertised by <strong>wqeqwe</strong>. With my experience and qualifications, I am confident in my ability to contribute effectively to your team.</p>\r\n                        <p>I am particularly drawn to specific aspects of the job, and I am excited about the opportunity to [mention what you hope to achieve or contribute]. Through my previous experience in [mention relevant experience or projects], I have developed a strong foundation in [mention relevant skills or competencies] that align well with the requirements of the position.</p>\r\n                        <p>I am eager to bring my skills or qualities to <strong>wqeqwe</strong> and to further develop my abilities.</p>\r\n                        <p>Enclosed is my CV, which provides additional details about my background and accomplishments. I would welcome the opportunity to discuss how my skills and experiences align with the needs of your team. Please feel free to contact me at your convenience to schedule a meeting or interview.</p>\r\n                        <p>Thank you for considering my application. I look forward to the possibility of contributing to <strong>wqeqwe</strong>.</p>\r\n                        <footer>\r\n                            Sincerely,<br>\r\n                            Worker<br>\r\n                            qasimov.vaqif512@gmail.com<br>\r\n                            55 555 55 55<br><br>\r\n                   <p> You can find my CV below:</p><br>\r\n                  <p>School: asdasdad\r\nPoint: 555\r\nSpeciality: asdasda\r\nUniversity: asdads\r\n (Honor Diplom)\r\nSkills:\r\n* asdasd\r\n* asdasdad\r\nLanguages:\r\n* dasdas (A1)\r\nCompanies:\r\n* asdasd (4)\r\n</p>\r\n                        </footer>\r\n                    </div>\r\n                </body>\r\n                </html>",
+        "Content": "\r\n    Worker\r\n    Asd ZIP Code: AZ-057\r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    31.3.2024\r\n    \r\n    \r\n    Dear Employer,\r\n    \r\n    I am writing to express my interest in the qwqweqwe advertised by wqeqwe. \r\n    With my experience, and qualifications, I am confident in my ability to contribute effectively to your team.\r\n    \r\n    I am particularly drawn to  specific aspects of the job  and I am excited about the opportunity to [mention what  you    hope to achieve or contribute]. Through my previous experience in [mention relevant experience or projects], I have developed a strong  foundation in    [mention relevant skills or competencies] that align well with the requirements of the position.\r\n    \r\n    I am eager to bring my skills or qualities to wqeqwe and to further develop my abilities.\r\n    \r\n    Enclosed is my CV, which provides additional details about my background and accomplishments. I would welcome the opportunity to discuss how my     skills and experiences align with the needs of your team. Please feel free to contact me at your convenience to schedule a meeting or interview.\r\n    \r\n    Thank you for considering my application. I look forward to the possibility of contributing to wqeqwe.\r\n    \r\n    Sincerely,\r\n    \r\n    Worker\r\n\r\n\r\nPlease find below my CV:\r\n\r\n\r\nSchool: asdasdad\r\nPoint: 555\r\nSpeciality: asdasda\r\nUniversity: asdads\r\n (Honor Diplom)\r\nSkills:\r\n* asdasd\r\n* asdasdad\r\nLanguages:\r\n* dasdas (A1)\r\nCompanies:\r\n* asdasd (4)\r\n"
+      },
+      {
+        "Id": "aab28469",
+        "Visiblity": 1,
+        "Receiver": "Employer",
+        "Sender": "Worker",
+        "Time": "2024-03-31T11:34:57.3860493+04:00",
+        "WorkId": "05e3e28e",
+        "HTML": "\r\n               <!DOCTYPE html>\r\n                <html lang=\"en\">\r\n                <head>\r\n                    <meta charset=\"UTF-8\">\r\n                    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n                    <title>Job Application Email</title>\r\n                    <style>\r\n                        body {\r\n                            font-family: Arial, sans-serif;\r\n                            background-color: #f9f9f9;\r\n                            color: #333;\r\n                            margin: 0;\r\n                            padding: 0;\r\n                        }\r\n                        .container {\r\n                            max-width: 600px;\r\n                            margin: 0 auto;\r\n                            padding: 20px;\r\n                        }\r\n                        h1 {\r\n                            color: #0074d9;\r\n                            margin-bottom: 20px;\r\n                        }\r\n                        p {\r\n                            font-size: 16px;\r\n                            line-height: 1.6;\r\n                            margin-bottom: 15px;\r\n                        }\r\n                        strong {\r\n                            color: #2ecc40;\r\n                        }\r\n                        footer {\r\n                            font-size: 14px;\r\n                            color: #888;\r\n                            margin-top: 30px;\r\n                        }\r\n                    </style>\r\n                </head>\r\n                <body>\r\n                    <div class=\"container\">\r\n                        <h1>Hello Employer,</h1>\r\n                        <p>I am writing to express my interest in the <strong>qwqweqwe</strong> advertised by <strong>wqeqwe</strong>. With my experience and qualifications, I am confident in my ability to contribute effectively to your team.</p>\r\n                        <p>I am particularly drawn to specific aspects of the job, and I am excited about the opportunity to [mention what you hope to achieve or contribute]. Through my previous experience in [mention relevant experience or projects], I have developed a strong foundation in [mention relevant skills or competencies] that align well with the requirements of the position.</p>\r\n                        <p>I am eager to bring my skills or qualities to <strong>wqeqwe</strong> and to further develop my abilities.</p>\r\n                        <p>Enclosed is my CV, which provides additional details about my background and accomplishments. I would welcome the opportunity to discuss how my skills and experiences align with the needs of your team. Please feel free to contact me at your convenience to schedule a meeting or interview.</p>\r\n                        <p>Thank you for considering my application. I look forward to the possibility of contributing to <strong>wqeqwe</strong>.</p>\r\n                        <footer>\r\n                            Sincerely,<br>\r\n                            Worker<br>\r\n                            qasimov.vaqif512@gmail.com<br>\r\n                            55 555 55 55<br><br>\r\n                   <p> You can find my CV below:</p><br>\r\n                  <p>School: asdasdad\r\nPoint: 555\r\nSpeciality: asdasda\r\nUniversity: asdads\r\n (Honor Diplom)\r\nSkills:\r\n* asdasd\r\n* asdasdad\r\nLanguages:\r\n* dasdas (A1)\r\nCompanies:\r\n* asdasd (4)\r\n</p>\r\n                        </footer>\r\n                    </div>\r\n                </body>\r\n                </html>",
+        "Content": "\r\n    Worker\r\n    Asd ZIP Code: AZ-057\r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    31.3.2024\r\n    \r\n    \r\n    Dear Employer,\r\n    \r\n    I am writing to express my interest in the qwqweqwe advertised by wqeqwe. \r\n    With my experience, and qualifications, I am confident in my ability to contribute effectively to your team.\r\n    \r\n    I am particularly drawn to  specific aspects of the job  and I am excited about the opportunity to [mention what  you    hope to achieve or contribute]. Through my previous experience in [mention relevant experience or projects], I have developed a strong  foundation in    [mention relevant skills or competencies] that align well with the requirements of the position.\r\n    \r\n    I am eager to bring my skills or qualities to wqeqwe and to further develop my abilities.\r\n    \r\n    Enclosed is my CV, which provides additional details about my background and accomplishments. I would welcome the opportunity to discuss how my     skills and experiences align with the needs of your team. Please feel free to contact me at your convenience to schedule a meeting or interview.\r\n    \r\n    Thank you for considering my application. I look forward to the possibility of contributing to wqeqwe.\r\n    \r\n    Sincerely,\r\n    \r\n    Worker\r\n\r\n\r\nPlease find below my CV:\r\n\r\n\r\nSchool: asdasdad\r\nPoint: 555\r\nSpeciality: asdasda\r\nUniversity: asdads\r\n (Honor Diplom)\r\nSkills:\r\n* asdasd\r\n* asdasdad\r\nLanguages:\r\n* dasdas (A1)\r\nCompanies:\r\n* asdasd (4)\r\n"
+      }
+    ],
+    "Company": "asdadasda",
+    "vacancies": [
+      {
+        "AviableDate": "2024-03-31T11:19:29.0153308+04:00",
+        "FinishDate": "2024-04-30T11:19:29.0153308+04:00",
+        "Visiblity": 1,
+        "CompanyName": "csaasdas",
+        "Position": "asdasd",
+        "Salary": 444.0,
+        "Requirements": "asdasdasd",
+        "Username": "Employer",
+        "Id": "273954dc",
+        "City": "Asds",
+        "Mail": "qasimov.vaqif512@gmail.com",
+        "Phone": "55 555 55 55"
+      },
+      {
+        "AviableDate": "2024-03-31T11:29:09.0350547+04:00",
+        "FinishDate": "2024-04-30T11:29:09.0350547+04:00",
+        "Visiblity": 1,
+        "CompanyName": "wqeqwe",
+        "Position": "qwqweqwe",
+        "Salary": 555.0,
+        "Requirements": "qweqwe",
+        "Username": "Employer",
+        "Id": "05e3e28e",
+        "City": "Asds",
+        "Mail": "qasimov.vaqif512@gmail.com",
+        "Phone": "55 555 55 55"
+      }
+    ],
+    "Workers": [
+      {
+        "Notifications": [
+          {
+            "Id": "6e33af1c",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:24:26.7235283+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello {{worker.Username}},</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>{{Company}}</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> {{v.Position}}</li>\r\n        <li><strong>Start Date:</strong> {{DateTime.Now.AddDays(7).Day}}.{{DateTime.Now.AddDays(7).Month}}.{{DateTime.Now.AddDays(7).Year}}</li>\r\n        <li><strong>Salary:</strong> {{v.Salary}}</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        {{Username}}<br>\r\n        {{Company}}<br>\r\n        {{DateTime.Now.Day}}.{{DateTime.Now.Month}}.{{DateTime.Now.Year}}<br>\r\n        Contact Information:<br>\r\n        Email: {{Mail}}<br>\r\n        Phone: {{Phone}}<br>\r\n        City: {{City}}\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: asdasd\r\n    Start Date: 7.4.2024\r\n    Salary: 444\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          }
+        ],
+        "AppliedWorks": [],
+        "PersonalCv": {
+          "HonorDiplom": true,
+          "Skills": [
+            "asxsax"
+          ],
+          "Languages": [
+            {
+              "Name": "qwsaz",
+              "LanguageLevel": "A2"
+            }
+          ],
+          "Companies": [
+            {
+              "Name": "asda",
+              "Time": "555"
+            }
+          ],
+          "School": "addssdasd",
+          "Point": 555,
+          "Speciality": "sadasdas",
+          "University": "dsasdasd"
+        },
+        "Id": "dfcc7ad6",
+        "Name": "Asdasdasd",
+        "Surname": "Asdda",
+        "City": "Asdas",
+        "Mail": "qasimov.vaqif512@gmail.com",
+        "Phone": "55 555 55 55",
+        "Age": 45,
+        "Password": "Worker12",
+        "Username": "Worker1"
+      },
+      {
+        "Notifications": [
+          {
+            "Id": "6e33af1c",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:24:26.7235283+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello {{worker.Username}},</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>{{Company}}</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> {{v.Position}}</li>\r\n        <li><strong>Start Date:</strong> {{DateTime.Now.AddDays(7).Day}}.{{DateTime.Now.AddDays(7).Month}}.{{DateTime.Now.AddDays(7).Year}}</li>\r\n        <li><strong>Salary:</strong> {{v.Salary}}</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        {{Username}}<br>\r\n        {{Company}}<br>\r\n        {{DateTime.Now.Day}}.{{DateTime.Now.Month}}.{{DateTime.Now.Year}}<br>\r\n        Contact Information:<br>\r\n        Email: {{Mail}}<br>\r\n        Phone: {{Phone}}<br>\r\n        City: {{City}}\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: asdasd\r\n    Start Date: 7.4.2024\r\n    Salary: 444\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "1a191efa",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:27:58.5622762+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> </li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 0</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: \r\n    Start Date: 7.4.2024\r\n    Salary: 0\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          }
+        ],
+        "AppliedWorks": [],
+        "PersonalCv": {
+          "HonorDiplom": true,
+          "Skills": [
+            "asxsax"
+          ],
+          "Languages": [
+            {
+              "Name": "qwsaz",
+              "LanguageLevel": "A2"
+            }
+          ],
+          "Companies": [
+            {
+              "Name": "asda",
+              "Time": "555"
+            }
+          ],
+          "School": "addssdasd",
+          "Point": 555,
+          "Speciality": "sadasdas",
+          "University": "dsasdasd"
+        },
+        "Id": "dfcc7ad6",
+        "Name": "Asdasdasd",
+        "Surname": "Asdda",
+        "City": "Asdas",
+        "Mail": "qasimov.vaqif512@gmail.com",
+        "Phone": "55 555 55 55",
+        "Age": 45,
+        "Password": "Worker12",
+        "Username": "Worker1"
+      },
+      {
+        "Notifications": [
+          {
+            "Id": "6e33af1c",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:24:26.7235283+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello {{worker.Username}},</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>{{Company}}</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> {{v.Position}}</li>\r\n        <li><strong>Start Date:</strong> {{DateTime.Now.AddDays(7).Day}}.{{DateTime.Now.AddDays(7).Month}}.{{DateTime.Now.AddDays(7).Year}}</li>\r\n        <li><strong>Salary:</strong> {{v.Salary}}</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        {{Username}}<br>\r\n        {{Company}}<br>\r\n        {{DateTime.Now.Day}}.{{DateTime.Now.Month}}.{{DateTime.Now.Year}}<br>\r\n        Contact Information:<br>\r\n        Email: {{Mail}}<br>\r\n        Phone: {{Phone}}<br>\r\n        City: {{City}}\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: asdasd\r\n    Start Date: 7.4.2024\r\n    Salary: 444\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "1a191efa",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:27:58.5622762+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> </li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 0</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: \r\n    Start Date: 7.4.2024\r\n    Salary: 0\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "fbe82f24",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:30:28.1048638+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> </li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 0</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: \r\n    Start Date: 7.4.2024\r\n    Salary: 0\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          }
+        ],
+        "AppliedWorks": [],
+        "PersonalCv": {
+          "HonorDiplom": true,
+          "Skills": [
+            "asxsax"
+          ],
+          "Languages": [
+            {
+              "Name": "qwsaz",
+              "LanguageLevel": "A2"
+            }
+          ],
+          "Companies": [
+            {
+              "Name": "asda",
+              "Time": "555"
+            }
+          ],
+          "School": "addssdasd",
+          "Point": 555,
+          "Speciality": "sadasdas",
+          "University": "dsasdasd"
+        },
+        "Id": "dfcc7ad6",
+        "Name": "Asdasdasd",
+        "Surname": "Asdda",
+        "City": "Asdas",
+        "Mail": "qasimov.vaqif512@gmail.com",
+        "Phone": "55 555 55 55",
+        "Age": 45,
+        "Password": "Worker12",
+        "Username": "Worker1"
+      },
+      {
+        "Notifications": [
+          {
+            "Id": "6e33af1c",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:24:26.7235283+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello {{worker.Username}},</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>{{Company}}</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> {{v.Position}}</li>\r\n        <li><strong>Start Date:</strong> {{DateTime.Now.AddDays(7).Day}}.{{DateTime.Now.AddDays(7).Month}}.{{DateTime.Now.AddDays(7).Year}}</li>\r\n        <li><strong>Salary:</strong> {{v.Salary}}</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        {{Username}}<br>\r\n        {{Company}}<br>\r\n        {{DateTime.Now.Day}}.{{DateTime.Now.Month}}.{{DateTime.Now.Year}}<br>\r\n        Contact Information:<br>\r\n        Email: {{Mail}}<br>\r\n        Phone: {{Phone}}<br>\r\n        City: {{City}}\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: asdasd\r\n    Start Date: 7.4.2024\r\n    Salary: 444\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "1a191efa",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:27:58.5622762+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> </li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 0</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: \r\n    Start Date: 7.4.2024\r\n    Salary: 0\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "fbe82f24",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:30:28.1048638+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> </li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 0</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: \r\n    Start Date: 7.4.2024\r\n    Salary: 0\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "2b5dd45d",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:35:30.0852241+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> asdasd</li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 444</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: asdasd\r\n    Start Date: 7.4.2024\r\n    Salary: 444\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          }
+        ],
+        "AppliedWorks": [],
+        "PersonalCv": {
+          "HonorDiplom": true,
+          "Skills": [
+            "asxsax"
+          ],
+          "Languages": [
+            {
+              "Name": "qwsaz",
+              "LanguageLevel": "A2"
+            }
+          ],
+          "Companies": [
+            {
+              "Name": "asda",
+              "Time": "555"
+            }
+          ],
+          "School": "addssdasd",
+          "Point": 555,
+          "Speciality": "sadasdas",
+          "University": "dsasdasd"
+        },
+        "Id": "dfcc7ad6",
+        "Name": "Asdasdasd",
+        "Surname": "Asdda",
+        "City": "Asdas",
+        "Mail": "qasimov.vaqif512@gmail.com",
+        "Phone": "55 555 55 55",
+        "Age": 45,
+        "Password": "Worker12",
+        "Username": "Worker1"
+      },
+      {
+        "Notifications": [
+          {
+            "Id": "6e33af1c",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:24:26.7235283+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello {{worker.Username}},</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>{{Company}}</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> {{v.Position}}</li>\r\n        <li><strong>Start Date:</strong> {{DateTime.Now.AddDays(7).Day}}.{{DateTime.Now.AddDays(7).Month}}.{{DateTime.Now.AddDays(7).Year}}</li>\r\n        <li><strong>Salary:</strong> {{v.Salary}}</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        {{Username}}<br>\r\n        {{Company}}<br>\r\n        {{DateTime.Now.Day}}.{{DateTime.Now.Month}}.{{DateTime.Now.Year}}<br>\r\n        Contact Information:<br>\r\n        Email: {{Mail}}<br>\r\n        Phone: {{Phone}}<br>\r\n        City: {{City}}\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: asdasd\r\n    Start Date: 7.4.2024\r\n    Salary: 444\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "1a191efa",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:27:58.5622762+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> </li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 0</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: \r\n    Start Date: 7.4.2024\r\n    Salary: 0\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "fbe82f24",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:30:28.1048638+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> </li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 0</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: \r\n    Start Date: 7.4.2024\r\n    Salary: 0\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          },
+          {
+            "Id": "2b5dd45d",
+            "Visiblity": 1,
+            "Receiver": "Worker1",
+            "Sender": "Employer",
+            "Time": "2024-03-31T11:35:30.0852241+04:00",
+            "WorkId": null,
+            "HTML": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Job Acceptance Email</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            background-color: #f9f9f9;\r\n            color: #333;\r\n        }\r\n        h1 {\r\n            color: #0074d9;\r\n        }\r\n        p {\r\n            font-size: 16px;\r\n            line-height: 1.6;\r\n        }\r\n        ul {\r\n            list-style-type: disc;\r\n            margin-left: 20px;\r\n        }\r\n        strong {\r\n            color: #2ecc40;\r\n        }\r\n        footer {\r\n            font-size: 14px;\r\n            color: #888;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Hello Worker1,</h1>\r\n    <p>We are thrilled to inform you that your application to join our team at <strong>asdadasda</strong> has been accepted!</p>\r\n    <p>Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization.</p>\r\n    <p>As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals, and grow both personally and professionally.</p>\r\n    <p>Here are some key details regarding your acceptance:</p>\r\n    <ul>\r\n        <li><strong>Position:</strong> asdasd</li>\r\n        <li><strong>Start Date:</strong> 7.4.2024</li>\r\n        <li><strong>Salary:</strong> 444</li>\r\n    </ul>\r\n    <p>We are confident that you will excel in your new role and become an integral part of our team.</p>\r\n    <p>If you have any questions or need further information, please feel free to contact us at any time.</p>\r\n    <p>We look forward to welcoming you aboard and embarking on this exciting journey together!</p>\r\n    <footer>\r\n        Sincerely,<br>\r\n        Employer<br>\r\n        asdadasda<br>\r\n        31.3.2024<br>\r\n        Contact Information:<br>\r\n        Email: qasimov.vaqif512@gmail.com<br>\r\n        Phone: 55 555 55 55<br>\r\n        City: Asds\r\n    </footer>\r\n</body>\r\n</html>\r\n\r\n",
+            "Content": "\r\n\r\n    Worker1\r\n    Asd ZIP: AZ-057\r\n    \r\n    Dear Worker1, \r\n    \r\n    We are thrilled to inform you that your application to join our team at asdadasda has been accepted!\r\n    \r\n    Your skills and experience are highly valued, and we believe that you will make a significant contribution to our organization. \r\n    \r\n    As a member of our team, you will have the opportunity to work on exciting projects, collaborate with talented individuals\r\n    and grow both personally and professionally.\r\n    \r\n    Here are some key details regarding your acceptance:\r\n    \r\n    Position: asdasd\r\n    Start Date: 7.4.2024\r\n    Salary: 444\r\n    \r\n    We are confident that you will excel in your new role and become an integral part of our team. \r\n    \r\n    If you have any questions or need further information, please feel free to contact us at any time.\r\n    \r\n    We look forward to welcoming you aboard and embarking on this exciting journey together!\r\n    \r\n    Sincerely,\r\n    Employer\r\n    asdadasda\r\n    31.3.2024 \r\n    \r\n    qasimov.vaqif512@gmail.com\r\n    55 555 55 55\r\n    Asds"
+          }
+        ],
+        "AppliedWorks": [],
+        "PersonalCv": {
+          "HonorDiplom": true,
+          "Skills": [
+            "asxsax"
+          ],
+          "Languages": [
+            {
+              "Name": "qwsaz",
+              "LanguageLevel": "A2"
+            }
+          ],
+          "Companies": [
+            {
+              "Name": "asda",
+              "Time": "555"
+            }
+          ],
+          "School": "addssdasd",
+          "Point": 555,
+          "Speciality": "sadasdas",
+          "University": "dsasdasd"
+        },
+        "Id": "dfcc7ad6",
+        "Name": "Asdasdasd",
+        "Surname": "Asdda",
+        "City": "Asdas",
+        "Mail": "qasimov.vaqif512@gmail.com",
+        "Phone": "55 555 55 55",
+        "Age": 45,
+        "Password": "Worker12",
+        "Username": "Worker1"
+      }
+    ],
+    "Id": "bc8c1588",
+    "Name": "Sadasdasd",
+    "Surname": "Asdasd",
+    "City": "Asds",
+    "Mail": "qasimov.vaqif512@gmail.com",
+    "Phone": "55 555 55 55",
+    "Age": 23,
+    "Password": "Employer12",
+    "Username": "Employer"
+  }
+]
