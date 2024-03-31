@@ -1,16 +1,16 @@
 [
   {
-    "AviableDate": "2024-03-31T14:06:41.1484137+04:00",
-    "FinishDate": "2024-04-30T14:06:41.1484137+04:00",
+    "AviableDate": "2024-03-31T16:00:51.9418287+04:00",
+    "FinishDate": "2024-04-30T16:00:51.9418287+04:00",
     "Visiblity": 1,
-    "CompanyName": "sadasd",
-    "Position": "asdasdasd",
-    "Salary": 555.0,
-    "Requirements": "adsdasdasd",
+    "CompanyName": "IT Camp",
+    "Position": "Junior C++ Developer",
+    "Salary": 800.0,
+    "Requirements": "C++ ",
     "Username": "Employer",
-    "Id": "0dba9b1a",
+    "Id": "1664cab9",
     "City": "Baku",
     "Mail": "qasimov.vaqif512@gmail.com",
-    "Phone": "55 555 55 55"
+    "Phone": "10 100 10 10"
   }
 ]

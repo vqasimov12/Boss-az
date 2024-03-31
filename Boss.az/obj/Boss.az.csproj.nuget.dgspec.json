@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Boss.az\\Boss.az\\Boss.az.csproj": {}
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\MY FILES\\New folder\\Boss-az\\Boss.az\\Boss.az.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Boss.az\\Boss.az\\Boss.az.csproj": {
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\MY FILES\\New folder\\Boss-az\\Boss.az\\Boss.az.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Boss.az\\Boss.az\\Boss.az.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\MY FILES\\New folder\\Boss-az\\Boss.az\\Boss.az.csproj",
         "projectName": "Boss.az",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Boss.az\\Boss.az\\Boss.az.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\MY FILES\\New folder\\Boss-az\\Boss.az\\Boss.az.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Boss.az\\Boss.az\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\MY FILES\\New folder\\Boss-az\\Boss.az\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

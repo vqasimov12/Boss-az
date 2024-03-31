@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4h1TutUB8Xs4qQ45iquOtT1I+qo/Tfu5KqRAJp3wBWzXmDjLWYCEnNFDoN32DaaGsmmgYVzLDOeqiyqpGlJ0w==",
+  "dgSpecHash": "s4tZQLx3qCvA1h3HHA993AacQqZB4U1s7wIQaPvG59QuZRYf/iUb+91UIEAY3cdGUdcY4g7QeOeoc4H5FwUJRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Boss.az\\Boss.az\\Boss.az.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\MY FILES\\New folder\\Boss-az\\Boss.az\\Boss.az.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

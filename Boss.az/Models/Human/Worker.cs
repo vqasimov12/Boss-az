@@ -9,11 +9,6 @@ public class Worker : Person
     public Worker()
     {
     }
-    public Worker(string name, string surname, string city, string phone, int age, string username, string password, string mail)
-        : base(name, surname, city, phone, age, username, password, mail)
-    {
-
-    }
     public void WorkerMenu()
     {
         string[] arr = new string[5] { "Edit Profile", "Edit CV", "Notifications", "Apply", "Exit" };
@@ -48,23 +43,14 @@ public class Worker : Person
                             temp.Add(not);
                     int index = Main.PrintList(temp, "Notification");
                     if (index != -1)
-                    {
                         if (temp[index].Visiblity == 2)
-                        {
                             if (Admin.Selectoption("Do you want to accept invitation") == 1)
-                            {
                                 foreach (var e in Main.employers)
                                     if (e.Username == temp[index].Sender)
                                     {
                                         e.Workers.Add(this);
                                         Main.AddLog($"{Username} accept invitation of {e.Username} -> ");
-
                                     }
-                            }
-                        }
-
-                    }
-
                 }
 
                 else if (select == 3)
@@ -186,7 +172,6 @@ Please find below my CV:
 
                 else
                     break;
-
             }
         }
     }
@@ -306,20 +291,26 @@ Please find below my CV:
             Console.Clear();
             Main.Show(arr, sl);
             int k = Main.Control(arr.Length, ref sl);
-
-            if (k == 1)
+            try
             {
-                if (sl == 0)
-                    PersonalCv.AddCompany();
-                else if (sl == 1)
-                    PersonalCv.AddLanguage();
-                else if (sl == 2)
-                    PersonalCv.AddSkill();
-                else break;
+                if (k == 1)
+                {
+                    if (sl == 0)
+                        PersonalCv.AddCompany();
+                    else if (sl == 1)
+                        PersonalCv.AddLanguage();
+                    else if (sl == 2)
+                        PersonalCv.AddSkill();
+                    else break;
+                }
+                else if (k == -1)
+                    break;
             }
-            else if (k == -1)
-                break;
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                _ = Console.ReadKey(true);
+            }
         }
-
     }
 }

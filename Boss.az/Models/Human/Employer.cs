@@ -150,10 +150,25 @@ public class Employer : Person
                 }
 
                 else if (select == 2)
-                    Main.PrintList(Main.Vacancies, "Vacancies");
+                {
+                    List<Vacancy> temp = new();
+                    foreach (var a in Main.Vacancies)
+                        if (a.Visiblity == 1)
+                            temp.Add(a);
+                    _=Main.PrintList(temp, "Vacancies");
+                }
 
                 else if (select == 3)
-                    Main.PrintList(vacancies, "My Vacancies", false);
+                {
+                    List<Vacancy> temp = new();
+                    foreach (var a in vacancies)
+                        if (a.Visiblity == 1)
+                            temp.Add(a);
+                    int k = Main.PrintList(temp, "My Vacancies", false);
+                    if (k != -1)
+                        if (Admin.Selectoption("Do you want to delete this Vacancy?") == 1)
+                            temp[k].Visiblity = -1;
+                }
 
                 else if (select == 4)
                 {
@@ -161,8 +176,8 @@ public class Employer : Person
                     if (index != -1)
                         if (Admin.Selectoption("Do you want to fire this employee?") == 1)
                         {
-                            Workers.Remove(Workers[index]);
                             Main.AddLog($"{Username} fired {Workers[index].Username} -> ");
+                            Workers.Remove(Workers[index]);
                         }
                 }
 
