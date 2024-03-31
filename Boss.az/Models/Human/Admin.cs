@@ -14,7 +14,7 @@ public class Admin : Person
     }
     public void AdminMenu()
     {
-        string[] arr = new string[8] { "All Workers", "All Employers", "All Vacancies", "All Notifacations", "All logs", "Removed Workers", "Removed Employers", "Exit" };
+        string[] arr = new string[8] { "All Workers", "All Employers", "All Vacancies", "All Notifacations", "Removed Employers", "Removed Workers", "All logs", "Exit" };
         int select = 0;
         while (true)
         {
@@ -83,13 +83,14 @@ public class Admin : Person
                 else if (select == 3)
                     AllNotifications();
 
-                else if (select == 4)
+                else if (select == 6)
                 {
                     Console.Clear();
-                    string jsonContent = File.ReadAllText(Main.path);
+                    string jsonContent = File.ReadAllText(Main.DirectoryPath+Main.path);
                     Console.WriteLine(jsonContent);
                     _ = Console.ReadKey(true);
                 }
+
                 else if (select == 5)
                 {
                     int k = Main.PrintList(RemovedWorkers, "Removed Workers");
@@ -117,7 +118,7 @@ public class Admin : Person
                     }
                 }
 
-                else if (select == 6)
+                else if (select == 4)
                 {
                     int k = Main.PrintList(RemovedEmployers, "Removed Employers");
                     if (k != -1)
@@ -223,7 +224,7 @@ public class Admin : Person
                                 {
                                     Main.AddLog($"Admin allowed notification Id: {temp[option].Id} -> ");
 
-                                    if (temp[option].Visiblity == 0)
+                                    //if (temp[option].Visiblity == 0)
                                         temp[option].Visiblity = 1;
                                     foreach (var user in Main.workers)
                                         if (user.Username == temp[option].Receiver)

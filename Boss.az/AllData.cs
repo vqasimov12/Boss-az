@@ -15,19 +15,19 @@ public class AllData
             Formatting = Formatting.Indented
         };
         string json = JsonConvert.SerializeObject(Admin.AdminNotifications, settings);
-        File.WriteAllText("AdminNotifications.json", json);
+        File.WriteAllText(Main.DirectoryPath+"AdminNotifications.json", json);
         json = JsonConvert.SerializeObject(Admin.AdminVacancies, settings);
-        File.WriteAllText("AdminVacancies.json", json);
+        File.WriteAllText(Main.DirectoryPath+"AdminVacancies.json", json);
         json = JsonConvert.SerializeObject(Admin.RemovedEmployers, settings);
-        File.WriteAllText("RemovedEmployers.json", json);
+        File.WriteAllText(Main.DirectoryPath + "RemovedEmployers.json", json);
         json = JsonConvert.SerializeObject(Admin.RemovedWorkers, settings);
-        File.WriteAllText("RemovedWorkers.json", json);
+        File.WriteAllText(Main.DirectoryPath + "RemovedWorkers.json", json);
         json = JsonConvert.SerializeObject(Main.workers, settings);
-        File.WriteAllText("Worker.json", json);
+        File.WriteAllText(Main.DirectoryPath + "Worker.json", json);
         json = JsonConvert.SerializeObject(Main.employers, settings);
-        File.WriteAllText("Employer.json", json);
+        File.WriteAllText(Main.DirectoryPath + "Employer.json", json);
         json = JsonConvert.SerializeObject(Main.Vacancies, settings);
-        File.WriteAllText("Vacancy.json", json);
+        File.WriteAllText(Main.DirectoryPath + "Vacancy.json", json);
     }
 
     public static void DeserializeConfig()
@@ -36,53 +36,53 @@ public class AllData
         {
             if (!Directory.Exists("AllDatas"))
                 Directory.CreateDirectory("AllDatas");
-            Main.DirectoryPath = "AllDatas";
+            Main.DirectoryPath = "AllDatas\\";
 
-            if (File.Exists("Worker.json"))
+            if (File.Exists(Main.DirectoryPath + "Worker.json"))
             {
-                string json = File.ReadAllText("Worker.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "Worker.json");
                 Main.workers = JsonConvert.DeserializeObject<List<Worker>>(json)!;
             }
 
-            if (File.Exists("Admin.json"))
+            if (File.Exists(Main.DirectoryPath + "Admin.json"))
             {
-                string json = File.ReadAllText("Admin.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "Admin.json");
                 Main.admin = JsonConvert.DeserializeObject<Admin>(json)!;
             }
             
-            if (File.Exists("Employer.json"))
+            if (File.Exists(Main.DirectoryPath + "Employer.json"))
             {
-                string json = File.ReadAllText("Employer.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "Employer.json");
                 Main.employers = JsonConvert.DeserializeObject<List<Employer>>(json)!;
             }
             
-            if (File.Exists("Vacancy.json"))
+            if (File.Exists(Main.DirectoryPath + "Vacancy.json"))
             {
-                string json = File.ReadAllText("Vacancy.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "Vacancy.json");
                 Main.Vacancies = JsonConvert.DeserializeObject<List<Vacancy>>(json)!;
             }
             
-            if (File.Exists("AdminVacancies.json"))
+            if (File.Exists(Main.DirectoryPath + "AdminVacancies.json"))
             {
-                string json = File.ReadAllText("AdminVacancies.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "AdminVacancies.json");
                 Admin.AdminVacancies = JsonConvert.DeserializeObject<List<Vacancy>>(json)!;
             }
             
-            if (File.Exists("AdminNotifications.json"))
+            if (File.Exists(Main.DirectoryPath + "AdminNotifications.json"))
             {
-                string json = File.ReadAllText("AdminNotifications.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "AdminNotifications.json");
                 Admin.AdminNotifications = JsonConvert.DeserializeObject<List<Notification>>(json)!;
             }
             
-            if (File.Exists("RemovedEmployers.json"))
+            if (File.Exists(Main.DirectoryPath + "RemovedEmployers.json"))
             {
-                string json = File.ReadAllText("RemovedEmployers.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "RemovedEmployers.json");
                 Admin.RemovedEmployers = JsonConvert.DeserializeObject<List<Employer>>(json)!;
             }
             
-            if (File.Exists("RemovedWorkers.json"))
+            if (File.Exists(Main.DirectoryPath + "RemovedWorkers.json"))
             {
-                string json = File.ReadAllText("RemovedWorkers.json");
+                string json = File.ReadAllText(Main.DirectoryPath + "RemovedWorkers.json");
                 Admin.RemovedWorkers = JsonConvert.DeserializeObject<List<Worker>>(json)!;
             }
 

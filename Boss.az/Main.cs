@@ -50,7 +50,7 @@ public class Main
     }
     public static void AddLog(string info)
     {
-        using (StreamWriter writer = File.AppendText(path))
+        using (StreamWriter writer = File.AppendText(DirectoryPath + path))
         {
             writer.WriteLine(info + DateTime.Now);
             writer.WriteLine();
@@ -60,7 +60,7 @@ public class Main
     {
 
         if (!File.Exists(path))
-            using (StreamWriter writer = new StreamWriter(path, true))
+            using (StreamWriter writer = new StreamWriter(DirectoryPath + path, true))
             {
                 writer.WriteLine($"{logMessage}{DateTime.Now}");
                 writer.WriteLine();

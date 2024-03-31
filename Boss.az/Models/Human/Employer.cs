@@ -48,7 +48,7 @@ public class Employer : Person
 
                 else if (select == 1)
                 {
-                    int option = Main.PrintList<Worker>(Main.workers, "Workers", false);
+                    int option = Main.PrintList(Main.workers, "Workers", false);
                     if (option != -1)
                     {
                         if (Admin.Selectoption("Do you want to invite this Worker") == 1)
@@ -143,7 +143,6 @@ public class Employer : Person
 </body>
 </html>
 ";
-                            n.Visiblity = 2;
                             Admin.AdminNotifications.Add(n);
                             Main.AddLog($"{Username} invited {n.Receiver} -> ");
                         }
@@ -166,7 +165,7 @@ public class Employer : Person
                             Main.AddLog($"{Username} fired {Workers[index].Username} -> ");
                         }
                 }
-         
+
                 else if (select == 5)
                 {
                     List<Notification> temp = new();
@@ -350,7 +349,7 @@ public class Employer : Person
                 Console.SetCursorPosition(54, sl + 9);
                 Console.Write(new string(' ', arr1[sl].Length - arr1[sl].IndexOf(':') - 1));
                 Console.SetCursorPosition(54, sl + 9);
-                string newValue="";
+                string newValue = "";
                 if (sl == 4)
                 {
                     if (v.Salary != default && v.Requirements != default && v.CompanyName != default && v.Position != default)
