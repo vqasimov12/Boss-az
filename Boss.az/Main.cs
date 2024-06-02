@@ -496,7 +496,7 @@ public class Main
             if (HtmlBody)
                 mail.IsBodyHtml = true;
             smtp.Port = 587;
-            smtp.Credentials = new NetworkCredential("qasimov.vaqif512@gmail.com", "mnnc lpwi nzua ocjg");
+            smtp.Credentials = new NetworkCredential("example@gmail.com", "key");
             smtp.EnableSsl = true;
             smtp.Send(mail);
             AddLog($"Mail sent to {_destinationMail} -> ");
